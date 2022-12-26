@@ -1,1 +1,1 @@
-# Travel-Companion-API
+# School-Manager-API
